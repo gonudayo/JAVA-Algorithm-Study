@@ -1,5 +1,5 @@
 /*
-https://velog.io/@gonudayo/Java-알고리즘-프로그래머스-위장/
+https://velog.io/@gonudayo/Java-해시-프로그래머스-위장/
 */
 import java.util.HashMap;
 

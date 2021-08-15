@@ -1,5 +1,5 @@
 /*
-https://velog.io/@gonudayo/프로그래머스-완주하지-못한-선수/
+https://velog.io/@gonudayo/Java-해시-프로그래머스-완주하지-못한-선수/
 */
 import java.util.HashMap;
 

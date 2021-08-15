@@ -1,5 +1,5 @@
 /*
-https://velog.io/@gonudayo/Java-알고리즘-프로그래머스-전화번호-목록/
+https://velog.io/@gonudayo/Java-해시-프로그래머스-전화번호-목록/
 */
 import java.util.HashMap;
 
